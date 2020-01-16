@@ -1,4 +1,5 @@
-<script>
+//<script>
+
 /*
 Unbounce Community :: Tips & Scripts :: Carousel With A Box Widget 
 TS:0002-04-063
@@ -8,7 +9,8 @@ Do not remove this section. It helps our team track useage of external workaroun
   // jQuery v 2.2.4 requierd
   // CDN link here - https://code.jquery.com/
   // Add a box to the page and nest the elements inside (can include boxes with grouped content)
-  // The first element that is nested in the containing box will be what shows on page load	
+  // The first element that is nested in the containing box will be what shows on page load
+
 $(function() { 
   // Add a box to the page and nest the elements inside (can include boxes with grouped content)
   // The first element that is nested in the containing box will be what shows on page load
@@ -82,4 +84,5 @@ $(function() {
     cycleTimeLeft();
   });
 });
-</script>
+
+// </script>
